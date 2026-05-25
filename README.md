@@ -2,6 +2,7 @@
 End-to-end logistics analytics dashboard providing real-time insights into order trends, on-time delivery rates, customer satisfaction, hub capacity, driver performance, and vehicle utilization to support operational decision-making and supply chain optimization.
 
 ### <img width="1269" height="756" alt="dashboard" src="https://github.com/user-attachments/assets/9d5ca88b-7d3d-428f-ae08-155ed7a87dfd" />
+<img width="1600" height="860" alt="x1" src="https://github.com/user-attachments/assets/d71ea758-bb71-43d6-bbc2-9d2185714bf9" />
 
 
 # Logistics & Delivery Analytics Dashboard
